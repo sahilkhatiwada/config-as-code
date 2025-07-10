@@ -22,6 +22,12 @@ One Config Format to Power All Tools
 ## Installation
 ```sh
 npm install --save-dev config-as-code
+# or with yarn
+yarn add --dev config-as-code
+# or with pnpm
+pnpm add -D config-as-code
+# or with bun
+bun add --dev config-as-code
 ```
 
 ## Usage
