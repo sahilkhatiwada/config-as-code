@@ -1,0 +1,15 @@
+# Exclude test files
+*.test.ts
+
+# Exclude docs
+README.md
+
+# Exclude config and scripts
+Makefile
+*.log
+
+# Exclude TypeScript config and source maps
+*.tsbuildinfo
+*.map
+
+dev.config.ts 
